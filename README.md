@@ -44,3 +44,6 @@ and always looking for more knowledge and new challenges.
 ###
 
 - 💼 &nbsp; Currently working at **MOUCHATECH**
+
+<br/>
+<hr>
