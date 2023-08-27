@@ -17,4 +17,4 @@ and always looking for more knowledge and new challenges.
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/jaafari96)](https://www.linkedin.com/in/younes-jaafari)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/jaafari96)](https://wa.me/212770486685)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://github.com/jaafari96)](https://t.me/jaafari23)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/jaafari96)](younes.chliah.jaafari@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/jaafari96)](mailto:younes.chliah.jaafari@gmail.com)
