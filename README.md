@@ -1,8 +1,8 @@
 # Hi There ! 👋 Be very well!
 ## about me
-🤔 I am a self-taught developer who loves new technologies, always willing to learn.
-💼 I have been working for almost 7 years developing systems, automated scripts, webscraping, crawlers and web development, developing solutions for the most diverse situations.
-🌱 Learning more about 
+- 🤔 &nbsp; I am a self-taught developer who loves new technologies, always willing to learn.
+- 💼 &nbsp; I have been working for almost 7 years developing systems, automated scripts, webscraping, crawlers and web development, developing solutions for the most diverse situations.
+- 🌱 &nbsp; Learning more about 
 ``` Python ```
 ``` Javascript``` 
 ``` PHP``` 
