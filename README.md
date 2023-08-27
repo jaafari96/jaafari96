@@ -36,8 +36,11 @@ and always looking for more knowledge and new challenges.
 [![Mysql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ###
+
 <div>
     <img src="https://img.shields.io/static/v1?label=Overview&message=CLEITON&color=f8efd4&style=for-the-badge&logo=GitHub">
 </div>
+
 ###
+
 - 💼 &nbsp; Currently working at **MOUCHATECH**
